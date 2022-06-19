@@ -5,7 +5,7 @@ using namespace std;
 #define DOWN_LEFT_ANGLE		(char)192
 #define DOWN_RIGHT_ANGLE	(char)217
 #define HORIZONTAL_LINE		(char)196 << (char)196
-#define VERTICAL_LINE		(char)179
+#define VERTICAL_LINE		(char)179 
 #define WHITE_BOX			"* "
 #define BLACK_BOX			"  " 
 
