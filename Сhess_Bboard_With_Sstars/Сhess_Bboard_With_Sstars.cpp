@@ -11,6 +11,7 @@ using namespace std;
 
 #define TASK
 //#define TASK_1
+
 void main()
 {
 	setlocale(LC_ALL, "");
